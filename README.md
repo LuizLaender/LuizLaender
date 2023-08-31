@@ -9,6 +9,7 @@
 - ⚡ Fun fact: **I love video games 💖**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizlaender&show_icons=true&locale=en&layout=compact" alt="luizlaender" />
 <p align="left">
 <a href="https://linkedin.com/in/luizlaender" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luizlaender" height="40" width="50" /></a>
 <a href="https://www.fiverr.com/luizlaender" target="_blank"><img align="center" src="https://seeklogo.com/images/F/fiverr-logo-2A4DB517AE-seeklogo.com.png" alt="luizlaender" height="50" width="50" /></a>
@@ -29,5 +30,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/luizlaender"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="luizlaender" /></a></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizlaender&show_icons=true&locale=en&layout=compact" alt="luizlaender" /></p>
