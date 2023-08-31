@@ -9,7 +9,7 @@
 - ⚡ Fun fact: **I love video games 💖**
 
 <h3 align="left">Connect with me:</h3>
-<a href=""> <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuizLaender&theme=react&line_height=40&hide=css"/> </a>
+<iframe src="https://giphy.com/embed/PTBVMsYIOB0SBP4MVe" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/matrix-binary-code-PTBVMsYIOB0SBP4MVe">via GIPHY</a></p>
 <p align="left">
 <a href="https://linkedin.com/in/luizlaender" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luizlaender" height="40" width="50" /></a>
 <a href="https://www.fiverr.com/luizlaender" target="_blank"><img align="center" src="https://seeklogo.com/images/F/fiverr-logo-2A4DB517AE-seeklogo.com.png" alt="luizlaender" height="50" width="50" /></a>
