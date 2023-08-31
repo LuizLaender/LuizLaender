@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luiz Laender</h1>
 <h3 align="center">A passionate Software Developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizlaender&label=Profile%20views&color=0e75b6&style=flat" alt="luizlaender" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizlaender" alt="luizlaender" /></a> </p>
-
 - 📚 I’m currently studiyng on **Universidade Potiguar**
 
 - 🌱 I’m currently learning **Computer science, Cybersecurity, C# and Game development**
