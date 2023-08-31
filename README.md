@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from Brazil</h3>
 
 
-- 📚 I’m currently studiyng at <a href="https://www.unp.br/" target="blank">**Universidade Potiguar**</a>
+- 📚 I’m a student at <a href="https://www.unp.br/" target="blank">**Universidade Potiguar**</a>
 
 - 🌱 I’m currently learning **Computer science, Cybersecurity, C# and Game development**
 
