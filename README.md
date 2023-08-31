@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luiz Laender</h1>
 <h3 align="center">A passionate Software Developer from Brazil</h3>
 
+
 - 📚 I’m currently studiyng on **Universidade Potiguar**
 
 - 🌱 I’m currently learning **Computer science, Cybersecurity, C# and Game development**
@@ -18,8 +19,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/luizlaender"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="luizlaender" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizlaender&show_icons=true&locale=en&layout=compact" alt="luizlaender" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizlaender&show_icons=true&locale=en" alt="luizlaender" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizlaender&" alt="luizlaender" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizlaender&show_icons=true&locale=en&layout=compact" alt="luizlaender" /></p>
