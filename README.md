@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/luizlaender" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luizlaender" height="40" width="50" /></a>
 <a href="https://www.fiverr.com/luizlaender" target="_blank"><img align="center" src="https://seeklogo.com/images/F/fiverr-logo-2A4DB517AE-seeklogo.com.png" alt="luizlaender" height="50" width="50" /></a>
+<a href="https://steamcommunity.com/id/ManaPotion108/" target="_blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/11/Steam-Logo.png" alt="steam" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
