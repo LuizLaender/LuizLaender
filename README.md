@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luiz Laender</h1>
+<h1 align="center">Hi 👋 I'm Luiz Laender</h1>
 <h3 align="center">A passionate Software Developer from Brazil</h3>
 
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Computer science, Cybersecurity, C# and Game development**
 
-- ⚡ Fun fact **I love video games 💖**
+- ⚡ Fun fact: **I love video games 💖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
