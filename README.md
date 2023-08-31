@@ -9,7 +9,7 @@
 - ⚡ Fun fact: **I love video games 💖**
 
 <h3 align="left">Connect with me:</h3>
-![giphy](https://github.com/LuizLaender/LuizLaender/assets/79274198/9938d8a2-7fd5-4a0a-9100-da79394e1cae)
+https://github.com/LuizLaender/LuizLaender/assets/79274198/9938d8a2-7fd5-4a0a-9100-da79394e1cae
 
 <p align="left">
 <a href="https://linkedin.com/in/luizlaender" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luizlaender" height="40" width="50" /></a>
