@@ -11,8 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/luizlaender" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luizlaender" height="50" width="60" /></a>
-<a href="https://www.fiverr.com/luizlaender" target="_blank"><img align="center" src="https://seeklogo.com/images/F/fiverr-logo-2A4DB517AE-seeklogo.com.png" alt="luizlaender" height="60" width="60" /></a>
+<a href="https://linkedin.com/in/luizlaender" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="luizlaender" height="81" width="300" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
