@@ -4,7 +4,7 @@
 
 - 📚 I’m a student at <a href="https://www.unp.br/" target="blank">**Universidade Potiguar**</a>
 
-- 🌱 I’m currently practicing my skills on **FreeCodeCamp**
+- 🌱 I’m currently enrolled in **FreeCodeCamp**
 
 - ⚡ Fun fact: **I love video games 💖**
 
