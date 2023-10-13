@@ -1,4 +1,4 @@
-<h1 align="center" text-decoration="none">Hi 👋 I'm Luiz Laender</h1>
+<h1 align="center">Hi 👋 I'm Luiz Laender</h1>
 <h3 align="center">A passionate Software Developer from Brazil</h3>
 <h4 align="center">Technologies i've used:</h4>
 <div align="center">
