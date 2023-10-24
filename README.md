@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Luiz Laender</h1>
 <h3 align="center">A passionate Software Developer from Brazil</h3>
-<h4 align="center">Technologies i've used:</h4>
+<h4 align="center">Technologies i've used:</h4> 
 <div align="center">
   <span title="C programming language"><a href='https://en.wikipedia.org/wiki/C_(programming_language)' rel='C_programming_language'><img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/350px-C_Programming_Language.svg.png?20201031132917'/></a></span>
   <span title="Vim text editor"><a href='https://en.wikipedia.org/wiki/Vim_(text_editor)' rel='vim_text_editor' ><img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png'/></a></span>
