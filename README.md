@@ -14,4 +14,6 @@
   <span title="Angular framework"><a href='https://en.wikipedia.org/wiki/Angular_%28web_framework%29' rel='angular_framework' ><img height='50px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png'/></a></span>
   <span title="React framework"><a href='https://react.dev/' rel='react_framework' ><img height='50px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png'/></a></span>
   <span title="Firebase backend cloud services"><a href='https://firebase.google.com/?hl=pt-br' rel='firebase_backend_cloud_services' ><img height='50px' src='https://miro.medium.com/v2/resize:fit:600/format:webp/1*R4c8lHBHuH5qyqOtZb3h-w.png'/></a></span>
+  <span title="sql"><a href='https://en.wikipedia.org/wiki/SQL' rel='sql' ><img height='50px' src='https://cdn-icons-png.flaticon.com/512/4248/4248443.png'/></a></span>
+  <span title="advpl"><a href='https://en.wikipedia.org/wiki/AdvPL' rel='advpl' ><img height='50px' src='https://assets-global.website-files.com/624202259cde067ee0a0f048/63a27fd52c03638577eebb68_totvs.png'/></a></span>
 </div>
