@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from Brazil</h3>
 <div align="center">
 
-  <span title="advpl"><a href='https://en.wikipedia.org/wiki/AdvPL' rel='advpl' ><img height='50px' src='https://assets-global.website-files.com/624202259cde067ee0a0f048/63a27fd52c03638577eebb68_totvs.png'/></a></span>
+<!--  <span title="advpl"><a href='https://en.wikipedia.org/wiki/AdvPL' rel='advpl' ><img height='50px' src='https://assets-global.website-files.com/624202259cde067ee0a0f048/63a27fd52c03638577eebb68_totvs.png'/></a></span>
   <span title="HTML programming language"><a href='https://en.wikipedia.org/wiki/HTML' rel='html_programming_language' ><img height='50px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png'/></a></span>
   <span title="CSS programming language"><a href='https://en.wikipedia.org/wiki/CSS' rel='css_programming_language' ><img height='50px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png'/></a></span>
   <span title="Javascript programming language"><a href='https://www.javascript.com/' rel='javascript_programming_language' ><img height='50px' src='https://www.computerhope.com/jargon/j/javascript.png'/></a></span>
