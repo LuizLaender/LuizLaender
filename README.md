@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Luiz</h1>
-<h3 align="center">a passionate software developer from Brazil</h3>
+<h1 align="center">Hi 👋</h1>
+<!-- <h3 align="center">a passionate software developer from Brazil</h3>
 <div align="center">
 
 <!--  <span title="advpl"><a href='https://en.wikipedia.org/wiki/AdvPL' rel='advpl' ><img height='50px' src='https://assets-global.website-files.com/624202259cde067ee0a0f048/63a27fd52c03638577eebb68_totvs.png'/></a></span>
